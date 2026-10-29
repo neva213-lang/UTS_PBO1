@@ -1,0 +1,60 @@
+{
+    "employees": [
+        {
+            "employee_id": 101,
+            "name": "Andi Saputra",
+            "department": "Maintenance",
+            "position": "Technician",
+            "salary": 5500000
+        },
+        {
+            "employee_id": 102,
+            "name": "Budi Santoso",
+            "department": "Production",
+            "position": "Operator",
+            "salary": 4800000
+        },
+        {
+            "employee_id": 104,
+            "name": "Citra Lestari",
+            "department": "Laboratory",
+            "position": "Lab Analyst",
+            "salary": 6000000
+        },
+        {
+            "employee_id": 107,
+            "name": "Dedi Firmansyah",
+            "department": "Engineering",
+            "position": "Engineer",
+            "salary": 7200000
+        },
+        {
+            "employee_id": 109,
+            "name": "Eka Pratama",
+            "department": "IT",
+            "position": "IT Technician",
+            "salary": 6500000
+        },
+        {
+            "employee_id": 114,
+            "name": "Fitri Handayani",
+            "department": "Warehouse",
+            "position": "Staff Gudang",
+            "salary": 4500000
+        },
+        {
+            "employee_id": 122,
+            "name": "Gilang Ramadhan",
+            "department": "Production",
+            "position": "Supervisor",
+            "salary": 8000000
+        },
+        {
+            "employee_id": 126,
+            "name": "Hana Puspita",
+            "department": "IT",
+            "position": "Data Center Operator",
+            "salary": 6200000
+        }
+    ]
+}

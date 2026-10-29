@@ -1,0 +1,31 @@
+﻿sensor_id,location,temperature,status,operator_id
+SNS-A01,Boiler Room,88.5,DANGER,101
+SNS-A02,Assembly Line,42.0,NORMAL,102
+SNS-A03,Server Room,95.2,DANGER,
+SNS-A04,Chemical Lab,73.1,WARNING,104
+SNS-A05,Boiler Room,91.0,DANGER,101
+SNS-A06,Warehouse,31.5,NORMAL,
+SNS-A07,Turbine House,87.3,DANGER,107
+SNS-A08,Assembly Line,45.8,NORMAL,102
+SNS-A09,Server Room,89.9,DANGER,109
+SNS-A10,Data Center,24.0,NORMAL,
+SNS-A11,Boiler Room,96.4,DANGER,101
+SNS-A12,Chemical Lab,68.0,WARNING,104
+SNS-A13,Turbine House,92.1,DANGER,
+SNS-A14,Warehouse,48.9,NORMAL,114
+SNS-A15,Server Room,86.0,DANGER,109
+SNS-A16,Assembly Line,41.2,NORMAL,102
+SNS-A17,Boiler Room,99.5,DANGER,101
+SNS-A18,Data Center,22.5,NORMAL,
+SNS-A19,Turbine House,88.0,DANGER,107
+SNS-A20,Chemical Lab,75.4,WARNING,
+SNS-A21,Boiler Room,90.2,DANGER,101
+SNS-A22,Assembly Line,39.9,NORMAL,122
+SNS-A23,Server Room,93.7,DANGER,109
+SNS-A24,Warehouse,30.0,NORMAL,
+SNS-A25,Turbine House,87.8,DANGER,107
+SNS-A26,Data Center,25.1,NORMAL,126
+SNS-A27,Boiler Room,97.0,DANGER,101
+SNS-A28,Chemical Lab,71.3,WARNING,104
+SNS-A29,Server Room,85.5,DANGER,109
+SNS-A30,Assembly Line,43.5,NORMAL,
